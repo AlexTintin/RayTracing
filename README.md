@@ -13,17 +13,17 @@ cmake
 Clone this git
 then from the forlder execute the following command lines:
 
-mkdir build
-cd build
-cmake  ..
-make -j6
+mkdir build\\
+cd build\\
+cmake  ..\\
+make -j6\\
 
 
 ### Running
 
 execute the following:
 
-./sire_raytracer <link to scene>
+./sire_raytracer link-to-scene
 
 or just
 
