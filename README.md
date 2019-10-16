@@ -45,13 +45,13 @@ c to change camera position
 ## Done myself
 
 During this class I have implemented:
-	* Mesh intersection function
-	* Antialiasing function
-	* Ward BRDF function and the importance sampling
-	* Phong importance sampling
-	* Area light sampling
-	* Path tracer with russian roulette
-	* (A photon mapper is on the way)
+* Mesh intersection function
+* Antialiasing function
+* Ward BRDF function and the importance sampling
+* Phong importance sampling
+* Area light sampling
+* Path tracer with russian roulette
+* (A photon mapper is on the way)
 
 ## Exemple of Result
 
