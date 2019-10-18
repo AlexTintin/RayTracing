@@ -29,6 +29,12 @@ execute the following:
 ```bash
 ./sire_raytracer link-to-scene
 ```
+for exemple:
+
+```bash
+./sire_raytracer ../data/tasSpheres.snc
+```
+
 
 or just
 
@@ -50,7 +56,7 @@ During this class I have implemented:
 * Ward BRDF function and the importance sampling
 * Phong importance sampling
 * Area light sampling
-* Path tracer with russian roulette
+* Monte Carlo Path tracer with russian roulette
 * (A photon mapper is on the way)
 
 ## Exemple of Result
